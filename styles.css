@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+    margin: 0px 30px 30px 30px;
+}
+
+.Rating {
+    width: 100px;
+}
+.column-2 {
+    display: block;
+    width: 700px;
+    
+}
+.Sub-head {
+    font-weight: bold;
+}
+
+.Author {
+    color: #007185;
+}
+.content {
+    font-size: 16px;
+}
+.nav-bar {
+    margin:40px 0px 10px 30px ;
+    color: #565959;
+    font-size: 15px;
+}
